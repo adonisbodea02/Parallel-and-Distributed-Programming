@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Projects\Paralel\ProjectMPI\Lab9\Puzzle.h(101,12): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Lab9.vcxproj -> D:\Projects\Paralel\ProjectMPI\Debug\Lab9.exe

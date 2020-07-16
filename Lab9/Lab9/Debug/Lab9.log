@@ -1,0 +1,6 @@
+﻿  Lab9.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\lab9\lab9\lab9.cpp(24): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab9\lab9\lab9.cpp(46): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab9\lab9\lab9.cpp(62): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab9\lab9\lab9.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  Lab9.vcxproj -> A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab9\Debug\Lab9.exe

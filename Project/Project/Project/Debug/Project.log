@@ -1,0 +1,7 @@
+﻿  Source.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\project\puzzle.h(90): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Project.vcxproj -> A:\UBB\3rd_Year\Parallel&Distributed_Programming\Project\Project\Debug\Project.exe

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\project\puzzle.h(99): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Generating code
+  0 of 525 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project.vcxproj -> A:\UBB\3rd_Year\Parallel&Distributed_Programming\Project\Project\x64\Release\Project.exe

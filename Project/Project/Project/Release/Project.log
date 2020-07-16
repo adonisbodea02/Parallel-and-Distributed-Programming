@@ -1,0 +1,24 @@
+﻿  Pair.cpp
+  PPQueue.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\project\puzzle.h(90): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Puzzle.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\project\puzzle.h(90): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Source.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\project\puzzle.h(90): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  ThreadPool.cpp
+  Generating code
+  All 522 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project.vcxproj -> A:\UBB\3rd_Year\Parallel&Distributed_Programming\Project\Project\Release\Project.exe

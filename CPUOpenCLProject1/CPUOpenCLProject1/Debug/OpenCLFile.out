@@ -1,0 +1,16 @@
+Using build options:  -I "A:\UBB\3rd_Year\Parallel&Distributed_Programming\CPUOpenCLProject1\CPUOpenCLProject1"
+Setting target instruction set architecture to: Default (Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2))
+Platform name: Intel(R) OpenCL
+Device name: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+Device version: OpenCL 2.1 (Build 10)
+Device vendor: Intel(R) Corporation
+Device profile: FULL_PROFILE
+Compilation started
+Compilation done
+Linking started
+Linking done
+Device build started
+Device build done
+Done.
+Failed to get kernel names for work group info
+Build succeeded!

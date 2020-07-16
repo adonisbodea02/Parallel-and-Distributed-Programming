@@ -1,0 +1,16 @@
+﻿  Lab6.cpp
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(18): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(33): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(39): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(43): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(79): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(83): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(92): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(96): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(109): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(149): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(153): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(166): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(170): warning C4018: '<': signed/unsigned mismatch
+a:\ubb\3rd_year\parallel&distributed_programming\lab6\lab6\lab6.cpp(193): warning C4018: '<': signed/unsigned mismatch
+  Lab6.vcxproj -> A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab6\Debug\Lab6.exe

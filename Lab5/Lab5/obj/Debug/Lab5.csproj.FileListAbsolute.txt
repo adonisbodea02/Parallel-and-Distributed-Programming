@@ -1,0 +1,7 @@
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\bin\Debug\Lab5.exe.config
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\bin\Debug\Lab5.exe
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\bin\Debug\Lab5.pdb
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\obj\Debug\Lab5.exe
+A:\UBB\3rd_Year\Parallel&Distributed_Programming\Lab5\Lab5\obj\Debug\Lab5.pdb
